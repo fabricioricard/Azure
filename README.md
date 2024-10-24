@@ -12,9 +12,10 @@ O Blue Horizon é um projeto de desenvolvimento de uma aplicação que funciona 
 
 ## Tecnologias Utilizadas
 
-- **Linguagem de Programação**: [Inserir linguagem, ex: Python, JavaScript, etc.]
-- **Framework**: [Inserir framework, se aplicável, ex: React, Flask, etc.]
-- **Banco de Dados**: [Inserir banco de dados, se aplicável, ex: PostgreSQL, MongoDB, etc.]
+- **Linguagem de Programação**: JavaScript (Node.js para o desenvolvimento do backend)
+- **Framework**: Express.js
+- **Banco de Dados**: A definir (TBD)
+- **Controle de Versão: Git (hospedado no GitHub)
 - **API**: Desenvolvimento de API para interagir com a carteira e o cartão.
 
 ## Como Contribuir
