@@ -27,7 +27,7 @@ O Blue Horizon é um projeto de desenvolvimento de uma aplicação que funciona 
 
 ## Licença
 
-Este projeto está sob a licença [inserir tipo de licença, ex: MIT, GPL, etc.]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
 
