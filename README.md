@@ -15,7 +15,6 @@ O Blue Horizon é um projeto de desenvolvimento de uma aplicação que funciona 
 - **Linguagem de Programação**: JavaScript (Node.js para o desenvolvimento do backend)
 - **Framework**: Express.js
 - **Banco de Dados**: A definir (TBD)
-- **Controle de Versão: Git (hospedado no GitHub)
 - **API**: Desenvolvimento de API para interagir com a carteira e o cartão.
 
 ## Como Contribuir
