@@ -21,4 +21,22 @@ O Blue Horizon é um projeto de desenvolvimento de uma aplicação que funciona 
 
 1. Faça um fork deste repositório.
 2. Crie uma branch com sua feature: `git checkout -b minha-feature`
-3. Faça commit das suas alterações: `git commit -m 'Adicionando um
+3. Faça commit das suas alterações: `git commit -m 'Adicionando uma nova feature'`
+4. Faça push para a branch: `git push origin minha-feature`
+5. Abra um pull request.
+
+## Licença
+
+Este projeto está sob a licença [inserir tipo de licença, ex: MIT, GPL, etc.]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Contato
+
+Para dúvidas e sugestões, sinta-se à vontade para me contatar:
+
+- **Nome**: [Seu Nome]
+- **Email**: [Seu Email]
+- **GitHub**: [Seu Perfil GitHub]
+
+## Sobre
+
+O projeto "Blue Horizon" é uma iniciativa para integrar tecnologia financeira com criptomoedas, proporcionando uma experiência de usuário intuitiva e acessível. Com o objetivo de criar um ambiente digital que represente segurança e inovação no mundo das finanças.
